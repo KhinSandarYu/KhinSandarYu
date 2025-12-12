@@ -719,8 +719,8 @@ header {
 }
 
 .profile-img {
-    width: 150px;
-    height: 220px;
+    width: 140px;
+    height: 210px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid var(--primary-color);
@@ -1006,18 +1006,21 @@ footer {
 body.light-mode {
     --text-color: #1e293b;
     --bg-color: #f3f4f6;
-    --card-bg: rgba(255, 255, 255, 0.85); /* Light card bg */
-    background: #f0f9ff; /* Very light blueish white */
+    --card-bg: rgba(255, 255, 255, 0.85);
+    /* Light card bg */
+    background: #f0f9ff;
+    /* Very light blueish white */
 }
 
-body.light-mode .aurora, 
-body.light-mode .stars, 
+body.light-mode .aurora,
+body.light-mode .stars,
 body.light-mode .twinkling,
 body.light-mode .falling-stars {
-    display: none; /* Hide space effects in light mode */
+    display: none;
+    /* Hide space effects in light mode */
 }
 
-body.light-mode header, 
+body.light-mode header,
 body.light-mode section {
     border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -1150,7 +1153,8 @@ body.light-mode .contact-info {
     .nav-links {
         position: fixed;
         top: 0;
-        right: -100%; /* Hidden */
+        right: -100%;
+        /* Hidden */
         width: 70%;
         height: 100vh;
         background: var(--card-bg);
@@ -1160,7 +1164,7 @@ body.light-mode .contact-info {
         align-items: center;
         gap: 2rem;
         transition: right 0.3s ease-in-out;
-        box-shadow: -5px 0 15px rgba(0,0,0,0.5);
+        box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
         z-index: 15;
     }
 
