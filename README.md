@@ -1,10 +1,10 @@
-# Bo Bo Han - Cloud & System Engineer Portfolio
+# Khin Sandar Yu - Cloud & System Engineer Portfolio
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Cloud+Platform+Engineer;SRE+%26+System+Engineer;AWS+%26+Kubernetes+Expert;Automation+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&lines=Field+Service+Engineer;Cloud+%26+System+Engineer;AWS+%26+Linux+Expert;Ops+%26+Automation)](https://git.io/typing-svg)
 
 Welcome to my personal portfolio website! This project showcases my journey as a Cloud & System Engineer, featuring my skills, experience, projects, and certifications.
 
-[**🚀 Live Site**](https://bobohan777.github.io/)
+[**🚀 Live Site**](https://khinsandaryu.github.io/)
 
 ## ✨ Features
 
@@ -14,7 +14,7 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 *   **Smooth Navigation**: Sticky navigation with smooth scrolling to sections.
 *   **Interactive Elements**: Hover effects, timeline animations, and skill bars.
 
-## �️ Technologies Used
+## 🛠️ Technologies Used
 
 *   **Frontend**: HTML5, CSS3 (Custom Properties/Variables), Vanilla JavaScript.
 *   **Fonts**: [Inter](https://fonts.google.com/specimen/Inter) (Google Fonts).
@@ -25,11 +25,11 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/bobohan777/bobohan777.github.io.git
+    git clone https://github.com/khinsandaryu/khinsandaryu.github.io.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd bobohan777.github.io
+    cd khinsandaryu.github.io
     ```
 3.  Open `index.html` in your favorite browser.
 
@@ -38,4 +38,4 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
-&copy; 2025 Bo Bo Han. Built with ❤️ and code.
+&copy; 2025 Khin Sandar Yu. Built with ❤️ and code.
